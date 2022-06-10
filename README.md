@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jami-R
+- 👀 I’m interested in being a computer programmer.
+- 🌱 I’m currently learning c++, c#, lua, and Kotlin. 
